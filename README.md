@@ -1,4 +1,4 @@
-<h3 align="center">Physics undergrad student who enjoys computer programming</h3>
+<h3 align="center">Physics grad student who enjoys computer programming</h3>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
