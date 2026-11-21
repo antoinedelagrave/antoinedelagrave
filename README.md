@@ -4,7 +4,6 @@
   See <strong><a href="https://antoinedelagrave.github.io/">antoinedelagrave.github.io</a></strong> for CV, research, and projects.
 </p>
 
-<h3 align="left">Contributions:</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antoinedelagrave/antoinedelagrave/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/antoinedelagrave/antoinedelagrave/output/github-contribution-grid-snake.svg">
