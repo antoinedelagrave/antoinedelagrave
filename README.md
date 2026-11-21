@@ -1,7 +1,7 @@
-<h3 align="center">Physics grad student who enjoys computer programming</h3>
+<h3 align="left">Physics grad student who enjoys computer programming</h3>
 
-<p align="center">
-  See <strong><a href="https://antoinedelagrave.github.io/">antoinedelagrave.github.io</a></strong> for CV, research, and projects
+<p align="left">
+  See <strong><a href="https://antoinedelagrave.github.io/">antoinedelagrave.github.io</a></strong> for CV, research, and projects.
 </p>
 
 <h3 align="left">Contributions:</h3>
